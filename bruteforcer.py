@@ -131,7 +131,7 @@ def main():
   for i, urls in enumerate(urlssplit, 1):
     while True:
       try:
-        print("Staring ClientSession")
+        print("Starting ClientSession")
         found = get_urls(urls)
         if (found and stopatfound):
           break

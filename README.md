@@ -1,2 +1,2 @@
 # dev-brute-force
-Brute force find the original source img from deviantart
+Brute force find the original source img from deviantart from a pre url.
